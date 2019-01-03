@@ -6,8 +6,8 @@ A single page web application that reads lyrics and chords from text files and d
 The user can interact with the words by dragging them around on the canvas and transposing the chords up and down. The user can also save their modified text files.
 
 ## Source Files:
-- `server.js`, server
-- `canvas.js`, client
+- `server.js`, the server
+- `canvas.js`, the client
 
 ## Launching Instructions:
 1. Go to the folder where server.js is located

@@ -1,0 +1,49 @@
+﻿{t:Até o Sol Sorriu Pra Mim}
+{st:Audiovoltz}
+{tags:acampamento, Gospel}
+
+[Am6]Hoje eu acorde[Em6]i
+[F7M9]e senti tudo diferente
+[Am6]sei que já n?o per[Em6]ten?o
+a es[F7M9]te lugar
+[Am6]As pegadas que [Em6] deixei
+me mos[F7M9]travam essa ausência
+t?o presente
+[Am6]que desa[Em6]pareceu quando
+[F7M9]vi você chegar
+
+e [Am]n?o dá [G]mais pra
+o[F]lhar atrás
+[Am]n?o dá [G]mais pra ser
+[F]como antes
+
+{start_of_chorus}
+[C]Desde que [G]te conhe[F]ci
+tudo mudou em mim
+[C]desde que te [Do]aceitei [F]
+em minha vida sou feliz
+[Am]quando você [G]segurou
+a [F]minha m?o
+até o [Ab]sol so[Bb]rriu
+pra [C]mim
+até o [Ab]sol so[Bb]rriu
+{end_of_chorus}
+
+{comment:solo}
+[Am6] | [Em6] | [F7M9] (2x)
+
+#this song was kindly provided by
+#audiovoltz to be part of this
+#tutorial
+
+{new_song}
+
+{title:Another Song}
+{subtitle:Another Artist}
+
+This is[A]my song
+I [G]like it very[C] much
+
+{soc}
+And [D]this is the [C]chorus
+{eoc}

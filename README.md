@@ -9,7 +9,7 @@ The user can interact with the words by dragging them around on the canvas and t
 1. Go to the folder where server.js is located
 2. Make sure the "html" and "songs" folder are also in that directory
 3. Open the command line and change the directory to where the files are located
-4. Type "node server.js" and hit the Enter key to run the program
+4. Type `node server.js` and hit the Enter key to run the program
 
 ## Operating Instructions:
 1. Go to "http://localhost:3000/chord-pro-web-app.html"
